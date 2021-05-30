@@ -4,7 +4,7 @@
 3. create a cdk project using below commmand for typscript language
 >>cdk init app --language typescript
 
-Note : if you face any issues while intializing as below 
+Note : if you face any issues while intializing 
 
 cdk.ps1 cannot be loaded because running scripts is disabled on this system. For more information,  
 see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
